@@ -84,7 +84,7 @@ qtconsole==4.7.1
 QtPy==1.9.0
 regex==2020.4.4
 requests==2.23.0
-rsa==4.0
+rsa==4.7
 s3transfer==0.1.13
 sacremoses==0.0.41
 scikit-learn==0.22.1
